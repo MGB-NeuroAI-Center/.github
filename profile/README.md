@@ -12,7 +12,7 @@ Our mission is to accelerate the translation of AI into real-world clinical prac
 
 Here are a few of our most impactful and actively maintained public repositories:
 
-- **[`capsule-icp-tracker`](https://github.com/MGB-NeuroAI-Center/dci-icp-tracker)**  
+- **[`capsule-icp-tracker`](https://github.com/MGB-NeuroAI-Center/capsule-icp-tracker)**  
   Visualization and tracking tools for Capsule and ICP-related events.
 
 - **[`clinical-note-deidentification`](https://github.com/MGB-NeuroAI-Center/clinical-note-deidentification)**  
@@ -20,9 +20,6 @@ Here are a few of our most impactful and actively maintained public repositories
 
 - **[`image-deidentification`](https://github.com/MGB-NeuroAI-Center/image-deidentification)**  
   Tools for removing PHI from medical imaging data.
-
-- **[`dicom-viewer`](https://github.com/MGB-NeuroAI-Center/dicom-viewer)**  
-  Simple DICOM viewer used in internal adjudication workflows.
 
 - **[`wfdb-conversion`](https://github.com/MGB-NeuroAI-Center/wfdb-conversion)**  
   Framework supports transformation from Parquet and HDF5 formats into WFDB format.
