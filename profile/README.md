@@ -60,16 +60,16 @@ This GitHub organization is maintained by the **MGB NeuroAI Center group**, a cr
 
 For access requests, collaboration, or support:
 - **Program Director**  
-  Eric S. Rosenthal, MD — *erosenthal[at]mgh[dot]]harvard[dot]]edu*
+  Eric S. Rosenthal, MD — *erosenthal[at]mgh[dot]harvard[dot]edu*
 
 - **Associate Director**  
-  Morteza Zabihi, DSC — *mzabihi[at]mgh[dot]]harvard[dot]]edu*
+  Morteza Zabihi, DSC — *mzabihi[at]mgh[dot]harvard[dot]edu*
 
 - **Project Inquiries & Collaboration**  
-  Ciera McCrary, Project Manager — *cmccrary[at]mgh[dot]]harvard[dot]]edu*
+  Ciera McCrary, Project Manager — *cmccrary[at]mgh[dot]harvard[dot]edu*
 
 - **Technical Support & Data Questions**  
-  Siril Raj Singa, Data Analyst — *ssinga[at]mgh[dot]]harvard[dot]]edu*
+  Siril Raj Singa, Data Analyst — *ssinga[at]mgh[dot]harvard[dot]edu*
 
 ---
 
